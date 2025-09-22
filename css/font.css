@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Avenir Next Rounded';
+    src: url('../font/AvenirNextRoundedDemi.ttf');
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../font/MyriadProRegular.ttf');
+}
+@import url('https://db.onlinewebfonts.com/c/b272450a19485b6e0cefb63200382c4a?family=Caviar+Dreams');
+@import url('https://fonts.cdnfonts.com/css/museo-sans-rounded');
